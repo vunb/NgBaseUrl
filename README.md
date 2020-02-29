@@ -8,6 +8,9 @@ If everything is okay, the app will display same as development time after build
 
 ## 2. Screenshot after build:prod and start with: [server-here](https://www.npmjs.com/package/server-here)
 
+* Build script: `ng build --prod --delete-output-path --base-href /v2/ --output-path v2`
+* Or: `npm run build:prod`
+
 ![Web app screenshot at time build production](docs/Screenshot2.png)
 
 
