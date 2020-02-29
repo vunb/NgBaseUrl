@@ -1,3 +1,16 @@
+# Angular Ivy Build Issue
+
+If everything is okay, the app will display same as development time after build production.
+
+## 1. Screenshot at development time:
+
+![Web app screenshot](docs/Screenshot.png)
+
+## 2. Screenshot after build:prod and start with: [server-here](https://www.npmjs.com/package/server-here)
+
+![Web app screenshot at time build production](docs/Screenshot2.png)
+
+
 # NgBaseUrl
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
